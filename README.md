@@ -17,8 +17,8 @@ I have found a passion for mobile application development, so I always strive to
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GetX-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB" height="36" alt="GetX" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GetX-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB" height="36" alt="GetX" /></a>
 </p>
 
 
