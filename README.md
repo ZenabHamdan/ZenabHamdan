@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zenab Hamdan
 ====================================================================================================================================
 
-Frontend Developer
+Flutter Developer
 ------------------
 
-I have found a passion for front-end development, so I always strive to grow in this field.
+I have found a passion for mobile application development, so I always strive to grow in this field.
 
 * 🌍  I'm based in Syria
 * ✉️  You can contact me at [hamdanzen866@gmail.com](mailto:hamdanzen866@gmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
